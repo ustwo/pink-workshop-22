@@ -13,7 +13,7 @@ Hi and welcome to the PINK <> ustwo workshop!
 2. Install your IDE of choice, for example Visual Studio Code https://code.visualstudio.com/download
 
 
-3. Download or clone the repo, then run these two commands inside the project directory 
+3. Download or clone the repo, then run these two terminal commands inside the project directory 
 
 - npm install
 
