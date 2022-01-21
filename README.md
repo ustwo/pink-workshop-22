@@ -19,4 +19,4 @@ Hi and welcome to the PINK <> ustwo workshop!
 
 - npm start
 
-A local server should now be running in your terminal and a calculator hopefully launched in your browser!
+A local server should now be running in your terminal and a shopping list hopefully launched in your browser!
