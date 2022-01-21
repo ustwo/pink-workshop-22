@@ -1,10 +1,9 @@
 
 - Beginner
 
-1. Edited color on line 26 in index.css
-2. 
-
-
-
-- Intermediate
-
+1. Edit color on line 26 in index.css
+2. Add alert('Item added!'); somewhere inside handleAddButtonClick
+3. Edit line 28 to isSelected: false in App.js
+4. Edit 'quantity' on lines 16-17 and update useState() on line 22 to the right number in App.js
+5. Edit line 26 to itemName: 'banana' in App.js
+ 
