@@ -18,3 +18,5 @@ Hi and welcome to the PINK <> ustwo workshop!
 - npm install
 
 - npm start
+
+A local server should now be running in your terminal and a calculator hopefully launched in your browser!
