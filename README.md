@@ -2,6 +2,8 @@
 
 Hi and welcome to the PINK <> ustwo workshop!
 
+Please, make sure you follow the setup steps below before the event. If you have any issues, don't worry! We'll do our best to help you troubleshoot on Sunday. 
+
 ## Setup
 
 1. Install Node version 16.13.2, either from their download page or a package manager like Homebrew
@@ -9,6 +11,7 @@ Hi and welcome to the PINK <> ustwo workshop!
 - https://nodejs.org/en/download/releases/
 
 - https://formulae.brew.sh/formula/node
+
 
 2. Install your IDE of choice, for example Visual Studio Code https://code.visualstudio.com/download
 
