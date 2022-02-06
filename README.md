@@ -16,7 +16,7 @@ Please, make sure you follow the setup steps below before the event. If you have
 2. Install your IDE of choice, for example Visual Studio Code https://code.visualstudio.com/download
 
 
-3. Download or clone the repo, then run these two terminal commands inside the project directory 
+3. Download or fork and clone the repo, then run these two terminal commands inside the project directory 
 
 - npm install
 
